@@ -1,5 +1,5 @@
 #+++++
-# Multiplication_Through_Addition.asm
+# Multiplication_Through_Addition_Loop.asm
 # Bjorn Melin
 # This program multiplies two numbers together
 # by using addition inside of a loop.
