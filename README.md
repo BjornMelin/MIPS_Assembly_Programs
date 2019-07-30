@@ -1,2 +1,2 @@
-# Multiplication_Through_Addition
-Multiplication Through Addition in MIPS Assembly
+# MIPS Assembly Programs
+## Multiplication Through Addition in MIPS Assembly
