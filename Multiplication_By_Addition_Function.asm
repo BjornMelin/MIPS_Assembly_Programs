@@ -1,5 +1,5 @@
 #+++++
-# CSC345 HW4 Assembly Assignment Two.asm
+# Multiplication_By_Addition_Function.asm
 # Bjorn Melin
 # 2/12/19
 # This program multiplies two numbers together
