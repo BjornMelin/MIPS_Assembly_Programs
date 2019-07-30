@@ -1,5 +1,5 @@
 #+++++
-# CSC345 HW11 Assembly Assignment 6
+# Quicksort.asm
 # Sorting In Assmebly
 # Bjorn Melin
 # 4/22/19
