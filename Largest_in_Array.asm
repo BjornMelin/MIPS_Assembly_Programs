@@ -1,5 +1,5 @@
 #+++++
-# CSC345 HW7 Assembly Assignment 4
+# Largest_in_Array.asm
 # Finding Largest in Array
 # Bjorn Melin
 # 3/12/19
