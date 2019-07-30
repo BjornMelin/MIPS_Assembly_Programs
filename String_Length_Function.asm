@@ -1,5 +1,5 @@
 #+++++
-# CSC345 HW9 Assembly Assignment 5
+# String_Length_Function.asm
 # C-Style String Length
 # Bjorn Melin
 # 4/1/19
