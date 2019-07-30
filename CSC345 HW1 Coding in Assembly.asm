@@ -1,5 +1,5 @@
 #+++++
-# CSC345 HW1 Coding in Assembly.asm
+# Multiplication_Through_Addition.asm
 # Bjorn Melin
 # This program multiplies two numbers together
 # by using addition inside of a loop.
